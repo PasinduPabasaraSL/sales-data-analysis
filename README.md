@@ -19,8 +19,3 @@ Welcome to the **Sales Data Analysis System** designed for a **Supermarket Netwo
   - **NumPy**: Numerical operations for efficient computations
 
 ## Installation & Setup ⚙️
-
-### 1. Clone the Repository
-   Clone this project to your local machine using the command:
-   ```bash
-   git clone https://github.com/yourusername/sales-data-analysis.git
