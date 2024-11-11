@@ -1,0 +1,6 @@
+branch_id,product_name,date,quantity,total_amount
+B1,Apples,2024-10-01,10,500.0
+B1,Oranges,2024-10-01,5,250.0
+B2,Bananas,2024-10-02,20,600.0
+B1,Apples,2024-10-02,15,750.0
+B2,Oranges,2024-10-02,7,350.0
