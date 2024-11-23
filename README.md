@@ -17,5 +17,3 @@ Welcome to the **Sales Data Analysis System** designed for a **Supermarket Netwo
   - **Pandas**: Data manipulation and analysis
   - **Matplotlib & Seaborn**: Data visualization for generating charts and graphs
   - **NumPy**: Numerical operations for efficient computations
-
-## Installation & Setup ⚙️
